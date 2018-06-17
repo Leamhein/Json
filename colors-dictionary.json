@@ -1,0 +1,50 @@
+{
+    "black": [
+    "black",
+    "чёрный"
+  ],
+    "red": [
+    "red",
+    "красный"
+  ],
+    "blue": [
+    "blue",
+    "голубой"
+  ],
+    "green": [
+    "green",
+    "зелёный"
+  ],
+    "yellow": [
+    "жёлтый",
+    "yellow"
+  ],
+    "white": [
+    "белый",
+    "white"
+  ],
+    "silver": [
+    "silver",
+    "серебрянный"
+  ],
+    "pink": [
+    "розовый",
+    "pink"
+  ],
+    "gray": [
+    "серый",
+    "gray"
+  ],
+    "purple": [
+    "purple",
+    "пурпурный"
+  ],
+    "brown": [
+    "brown",
+    "коричневый"
+  ],
+    "aquamarine": [
+    "aquamarine",
+    "аквамарин"
+  ]
+}
