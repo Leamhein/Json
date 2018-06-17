@@ -1,8 +1,9 @@
 {
-  "rgb":["r","g","b"],
-  "monkeyseemonkeydo:["monkey","see","monkey","do"],
-  "backtothefuture":["back","to","the","future"],
-  "republicofbelarus:["republic","of","belarus"],
-  "hex":["h","e","x"],
-  "sexinthecity":["sex","in","the","city"]
+  "monkeyseemonkeydo":["monkey","see","monkey","do"],
+  "whenitrainsitpours":["when","it","rains","it","pours"],
+  "safeandsound":["safe","and","sound"],
+  "it'srainingcatsanddogs":["it's","raining","cats", "and", "dogs"],
+  "hustleandbustle":["hustle","and","bustle"],
+  "tobebornwithasilverspoon":["to","be","born","with","a","silver","spoon"],
+  "forgoodnesssake":["for","goodness","sake"]
 }
