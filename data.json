@@ -11,12 +11,12 @@
 	}],
 	"skills": [{
 		"tech": "Web Development",
-		"skills": ['CoreJS', 'React', 'Redux', 'D3.js']
+		"skills": ["CoreJS", "React", "Redux", "D3.js"]
 	}, {
 		"tech": "UI/UX Design",
-		"skills": ['Photoshop', 'Illustrator']
+		"skills": ["Photoshop", "Illustrator"]
 	}, {
 		"tech": "Frontend",
-		"skills": ['HTML', 'CSS']
+		"skills": ["HTML", "CSS"]
 	}]
 }
