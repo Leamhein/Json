@@ -21,7 +21,31 @@
         "Present"
       ]
     }
+  ],
+  "skills": [
+    {
+      "tech": "Web Development",
+      "skills": [
+        "CoreJS",
+        "React",
+        "Redux",
+        "D3.js"
+      ]
+    },
+    {
+      "tech": "UI/UX Design",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ]
+    },
+    {
+      "tech": "Frontend",
+      "skills": [
+        "HTML",
+        "CSS"
+      ]
+    }
   ]
 }
-
 
