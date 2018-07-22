@@ -1,22 +1,23 @@
 {
-	"employment": [{
-		"name": "JSC 'Instrument-making plant Optron'",
-		"date": ["11 2015", "01 2016"]
-	}, {
-		"name": "PUE 'EngMechLogist'",
-		"date": ["01 2016", "04 2017"]
-	}, {
-		"name": "Unitary Enterprise 'AES Komplekt'",
-		"date": ["04 2017", "Present"]
-	}],
-	"skills": [{
-		"tech": "Web Development",
-		"skills": ["CoreJS", "React", "Redux", "D3.js"]
-	}, {
-		"tech": "UI/UX Design",
-		"skills": ["Photoshop", "Illustrator"]
-	}, {
-		"tech": "Frontend",
-		"skills": ["HTML", "CSS"]
-	}]
+  "{": {
+    "\"employment\":": {
+      "\"name\":\"JSC 'Instrument-making plant Optron'\",": {},
+      "\"date\":": {}
+    },
+    "},{": {
+      "\"name\":\"PUE 'EngMechLogist'\",": {},
+      "\"date\":": {},
+      "\"name\":\"Unitary Enterprise 'AES Komplekt'\",": {},
+      "\"tech\":\"UI/UX Design\",": {},
+      "\"skills\":": {},
+      "\"tech\":\"Frontend\",": {}
+    },
+    "},": {},
+    "\"skills\":": {
+      "\"tech\":\"Web Development\",": {},
+      "\"skills\":": {}
+    },
+    "}": {}
+  },
+  "}": {}
 }
